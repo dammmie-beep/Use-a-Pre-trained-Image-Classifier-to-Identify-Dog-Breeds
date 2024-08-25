@@ -1,6 +1,6 @@
 # Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
  ## Project Overview
-Welcome to the "Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds" project! This repository is a Udacity Project AI?ML project that  contains a Python application that leverages a pre-trained image classifier to identify dog breeds in pictures. The goal is to create an accessible tool that allows users, even without a deep understanding of machine learning, to use state-of-the-art technology to classify dog breeds with a simple command.
+Welcome to the "Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds" project! This repository is a Udacity Project AI/ML project that  contains a Python application that leverages a pre-trained image classifier to identify dog breeds in pictures. The goal is to create an accessible tool that allows users, even without a deep understanding of machine learning, to use state-of-the-art technology to classify dog breeds with a simple command.
 
 ## Features
 1. Pre-Trained Models: Utilizes powerful pre-trained models such as ResNet, AlexNet, and VGG16 that have been trained on the ImageNet dataset to ensure high accuracy in breed identification.
